@@ -1,0 +1,95 @@
+# phoenix-manufacturing-mvp
+Phoenix Print Farm — Market Applications, Materials, Manufacturing &amp; IP
+
+phoenix-manufacturing-mvp/
+├── README.md                  ## phoenix-manufacturing-mvp
+Phoenix Print Farm — Market Applications, Materials, Manufacturing & IP
+
+This repository defines the minimum viable manufacturing doctrine for Project Phoenix.
+It identifies the industries where sovereign print farms deliver immediate advantage,
+the material science requirements for functional production, the manufacturing
+pathways used to produce certified parts, and the intellectual property strategy that
+protects Phoenix manufacturing systems at scale.
+
+This repository contains no experimental code.
+It establishes what may be manufactured, how it is manufactured, and how it is
+protected before deployment.
+
+All Phoenix manufacturing implementations must conform to this doctrine.
+
+## Purpose
+
+Phoenix manufacturing is not a factory model.
+It is a software-defined production system built on digital inventory,
+deterministic output, and localized sovereignty.
+
+This repository locks:
+
+- Market entry priorities
+- Material performance requirements
+- Approved manufacturing pathways
+- Supply chain doctrine
+- IP posture for sovereign production
+
+## Supply Chain Doctrine
+
+Phoenix manufacturing does not rely on fragile, centralized global supply chains.
+It operates on controlled inputs, localized execution, and deterministic output.
+
+This repository defines the mandatory supply chain doctrine for all Phoenix
+print farm and manufacturing deployments.
+
+### Core Supply Chain Principles
+
+**Short-Chain Priority**  
+Phoenix systems prioritize local, regional, and sovereign material sources before
+global sourcing. Distance is treated as operational risk, not efficiency.
+
+**Digital Inventory First**  
+Designs, specifications, tolerances, and certifications exist digitally.
+Physical inventory is minimized to prevent capital lock-up and supply shock.
+
+**Material Substitution Readiness**  
+Every critical component must have at least one validated alternative material or
+manufacturing pathway to avoid single-point failure.
+
+**Vendor Independence**  
+No Phoenix manufacturing system may depend on a single vendor, country, or
+corporation for critical materials or components.
+
+**Fail-Soft Manufacturing**  
+Supply interruptions must degrade production gracefully rather than halt
+operations entirely.
+
+### Sovereign Manufacturing Controls
+
+Phoenix supply chains are designed to function under:
+
+- Global shortages
+- Trade restrictions
+- Logistics disruption
+- Energy instability
+
+Supply chain decisions are treated as strategic assets, not cost optimizations.
+
+### Explicit Exclusions
+
+This repository intentionally does not include:
+
+- Vendor identities
+- Contracts
+- Routes
+- Volumes
+- Schedules
+
+Operational supply chain execution exists outside public repositories.
+
+This doctrine defines how supply chains must behave,
+not how they are executed.
+
+IP posture for sovereign production
+    └── docs/
+    ├── market-applications.md
+    ├── materials-science.md
+    ├── manufacturing-pathways.md
+    └── ip-strategy.md
